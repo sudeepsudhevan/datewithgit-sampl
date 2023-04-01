@@ -2,8 +2,8 @@ hey friends
 
 this is me
 
-<<<<<<< HEAD
+
 conflicted
-=======
+
 yes do the conflict
->>>>>>> feature
+
