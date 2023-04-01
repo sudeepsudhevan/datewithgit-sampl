@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : sum.c
- Author      : 
+ Author      : Sudeep Sudhevan
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
